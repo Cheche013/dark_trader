@@ -1,0 +1,4 @@
+/.bundle/
+/vendor/
+echo "/.bundle/" >> .gitignore
+echo "/vendor/" >> .gitignore 
